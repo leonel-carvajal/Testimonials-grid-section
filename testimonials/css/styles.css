@@ -45,6 +45,9 @@ body {
 
 .testimonials:first-child {
   background-color: var(--moderate-violet);
+  background-image: url('/images/bg-pattern-quotation.svg');
+  background-repeat: no-repeat;
+  background-position: right top;
   grid-column: span 2;
   color: var(--color-text);
 }
